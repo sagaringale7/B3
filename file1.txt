@@ -1,2 +1,3 @@
 this is my file 1 sample file for git dem1
 and Now I am doing some changes in this file
+I am adding content from GUI now
