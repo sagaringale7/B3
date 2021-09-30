@@ -1,1 +1,2 @@
-this is my file 1 sample file for git demo
+this is my file 1 sample file for git dem1
+and Now I am doing some changes in this file
