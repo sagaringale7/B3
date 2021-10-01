@@ -1,0 +1,6 @@
+src count=10
+tgt count=10
+src=tgt
+data is correct
+src!=tgt
+data is correct
